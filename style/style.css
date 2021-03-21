@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400italic,700italic,400,700|Fjalla+One);
+
+    h1, h2 {
+        font-family: 'Fjalla One', 'Helvetica Neue', Arial, sans-serif;
+        font-size: 52px;
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        text-align: center;
+        margin: 1em 0 0 0;
+    }
